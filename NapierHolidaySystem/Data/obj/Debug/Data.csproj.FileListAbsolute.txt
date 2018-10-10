@@ -1,0 +1,7 @@
+F:\0_Documents\University\2_Year\1_OOSoftwareDev\__Coursework2\NapierHolidaySystem\Data\bin\Debug\Data.dll
+F:\0_Documents\University\2_Year\1_OOSoftwareDev\__Coursework2\NapierHolidaySystem\Data\bin\Debug\Data.pdb
+F:\0_Documents\University\2_Year\1_OOSoftwareDev\__Coursework2\NapierHolidaySystem\Data\bin\Debug\Business.dll
+F:\0_Documents\University\2_Year\1_OOSoftwareDev\__Coursework2\NapierHolidaySystem\Data\bin\Debug\Business.pdb
+F:\0_Documents\University\2_Year\1_OOSoftwareDev\__Coursework2\NapierHolidaySystem\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+F:\0_Documents\University\2_Year\1_OOSoftwareDev\__Coursework2\NapierHolidaySystem\Data\obj\Debug\Data.dll
+F:\0_Documents\University\2_Year\1_OOSoftwareDev\__Coursework2\NapierHolidaySystem\Data\obj\Debug\Data.pdb

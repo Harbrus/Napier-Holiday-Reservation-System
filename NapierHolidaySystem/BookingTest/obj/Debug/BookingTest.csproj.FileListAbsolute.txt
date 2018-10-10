@@ -1,0 +1,7 @@
+F:\0_Documents\University\2_Year\1_OOSoftwareDev\__Coursework2\NapierHolidaySystem\BookingTest\bin\Debug\BookingTest.dll
+F:\0_Documents\University\2_Year\1_OOSoftwareDev\__Coursework2\NapierHolidaySystem\BookingTest\bin\Debug\BookingTest.pdb
+F:\0_Documents\University\2_Year\1_OOSoftwareDev\__Coursework2\NapierHolidaySystem\BookingTest\bin\Debug\Business.dll
+F:\0_Documents\University\2_Year\1_OOSoftwareDev\__Coursework2\NapierHolidaySystem\BookingTest\bin\Debug\Business.pdb
+F:\0_Documents\University\2_Year\1_OOSoftwareDev\__Coursework2\NapierHolidaySystem\BookingTest\obj\Debug\BookingTest.csprojResolveAssemblyReference.cache
+F:\0_Documents\University\2_Year\1_OOSoftwareDev\__Coursework2\NapierHolidaySystem\BookingTest\obj\Debug\BookingTest.dll
+F:\0_Documents\University\2_Year\1_OOSoftwareDev\__Coursework2\NapierHolidaySystem\BookingTest\obj\Debug\BookingTest.pdb
